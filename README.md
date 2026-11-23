@@ -1,4 +1,5 @@
 # ICD-10-CM Coding Accuracy Evaluator
+[![Tests](https://github.com/aishalwaz/icd10-coding-evaluator/actions/workflows/tests.yml/badge.svg)](https://github.com/aishalwaz/icd10-coding-evaluator/actions/workflows/tests.yml)
 
 A Python tool that measures how accurately an AI model assigns ICD-10-CM diagnosis codes. It compares the model's codes with expert reference codes across a set of clinical cases and shows not just *how often* the model is wrong, but *how* it is wrong.
 
