@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "icd10-coding-evaluator"
+version = "0.1.0"
+description = "Measure how accurately an AI model assigns ICD-10-CM diagnosis codes"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Aisha Aliyu Waziri" }]
+
+[project.scripts]
+icd10-eval = "icd10_eval.cli:main"
+
+[tool.setuptools]
+packages = ["icd10_eval"]

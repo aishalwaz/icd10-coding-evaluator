@@ -1,0 +1,21 @@
+case_id,specialty,case_summary,reference_codes,ai_codes
+C001,Internal Medicine,58-year-old man with type 2 diabetes and hyperglycaemia on review; known essential hypertension.,E11.65;I10,E11.9;I10
+C002,Internal Medicine,64-year-old woman with hypertensive chronic kidney disease stage 4 and type 2 diabetes with diabetic CKD.,I12.9;N18.4;E11.22,I12.9;N18.4;E11.22
+C003,Infectious Disease,25-year-old man with fever and rigors; blood film positive for Plasmodium falciparum.,B50.9,B54
+C004,Infectious Disease,30-year-old woman with typhoid fever confirmed on blood culture.,A01.00,A01.00
+C005,Pulmonology,70-year-old man with an acute exacerbation of COPD.,J44.1,J44.1
+C006,Pulmonology,45-year-old woman with sepsis due to community-acquired pneumonia; organism not identified.,A41.9;J18.9,J18.9;A41.9
+C007,Cardiology,62-year-old man with NSTEMI and essential hypertension.,I21.4;I10,I21.4;I10
+C008,Cardiology,75-year-old woman with acute on chronic systolic heart failure and paroxysmal atrial fibrillation.,I50.23;I48.0,I50.9;I48.91
+C009,Endocrinology,19-year-old woman with type 1 diabetes presenting in diabetic ketoacidosis without coma.,E10.10,E10.10
+C010,Endocrinology,55-year-old woman with type 2 diabetes with hyperglycaemia and hypokalaemia.,E11.65;E87.6,E11.65
+C011,Haematology,16-year-old with Hb-SS sickle cell disease admitted in a painful crisis.,D57.00,D57.1
+C012,Haematology,34-year-old woman with iron deficiency anaemia.,D50.9,D50.9
+C013,Obstetrics,29-year-old at 32 weeks of pregnancy with diet-controlled gestational diabetes.,O24.410;Z3A.32,O24.410
+C014,Obstetrics,33-year-old at 36 weeks of pregnancy with gestational hypertension and no proteinuria.,O13.3;Z3A.36,O13.3;Z3A.36
+C015,Paediatrics,3-year-old with acute infectious gastroenteritis and dehydration.,A09;E86.0,A09;E86.0
+C016,Paediatrics,4-year-old with an acute upper respiratory tract infection and fever.,J06.9,J06.9;R50.9
+C017,General Surgery,22-year-old man with acute appendicitis.,K35.80,K35.80
+C018,Orthopaedics,81-year-old woman with a closed fracture of the right femoral neck after a fall; initial encounter.,S72.001A,S72.002A
+C019,Neurology,68-year-old man with an ischaemic stroke and atrial fibrillation.,I63.9;I48.91,I63.9;I48.91
+C020,Psychiatry,40-year-old woman with major depressive disorder; single episode; moderate.,F32.1,F32.A
